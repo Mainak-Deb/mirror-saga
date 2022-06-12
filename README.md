@@ -110,7 +110,10 @@ or
 ```Bash
 pip install requirements.txt
 ```
-
+or
+```Bash
+pip install -r requirements.txt
+```
 now you are ready to play the game
 just type 
 ```Bash
