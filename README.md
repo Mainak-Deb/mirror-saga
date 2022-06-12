@@ -5,6 +5,13 @@ This is a ` space + mirror` gamemade `Mainak Deb`.
 This game is made using python
 
 
+#YOUTUBE PLAYLIST
+CHANNEL NAME: [MAINAK DEB](https://www.youtube.com/channel/UC6zpwd4dQM8cYqzkeZjAmYg)
+
+https://www.youtube.com/playlist?list=PLLw9HRvbUMhuhhino7JaT1kpUVlbH1h5E
+
+[CLICK HERE](https://www.youtube.com/playlist?list=PLLw9HRvbUMhuhhino7JaT1kpUVlbH1h5E)
+
 # How to Run?
 At first make sure that you have pre-installled python.
 If not then Install it from [Official Python Website](https://www.python.org/downloads/)
