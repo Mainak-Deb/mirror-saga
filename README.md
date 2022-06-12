@@ -114,6 +114,7 @@ or
 ```Bash
 pip install -r requirements.txt
 ```
+---------------------------
 now you are ready to play the game
 just type 
 ```Bash
@@ -125,7 +126,7 @@ python3 .\mirrorSaga.py
 ```
 The game window will open there
 
-![home](assets\screenshots\home.png)
+![home](assets/screenshots/home.png)
 -------------------------------------------------
 #How to play?
 
@@ -135,19 +136,19 @@ There you will see two buttons. To start the game you have to click `START` butt
 
 Now you will enter into Level page
 
-![level](assets\screenshots\levelmap.png)
+![level](assets/screenshots/levelmap.png)
 
 Here you will see 9 levels, 8 are locked. To unlock them you habe to won their previous levels one by one.
 
 To enter into a level click on the Level click on that level button.
 
-![level](assets\screenshots\level1.png)
+![level](assets/screenshots/level1.png)
 
 After entering into a level you will see multiple button.
 The main task of the game is to kill the alien using the laser gun. for that you have to use mirrors to send the leaser to the destination.
 Click `+ADD` button to add mirrors.
-Then Drag mirror into suitable position, then reflect the leaser into the alien.
-![level](assets\screenshots\level1win.png)
+Then Drag mirror into suitabl/ position, then reflect the leaser into the alien.
+![level](assets/screenshots/level1win.png)
 
 
 
@@ -158,13 +159,13 @@ To drag the mirror you have to click on the middle circle of the mirror, the cir
 
 > You Have to complete the the game within the given time, else you will loose.
 
-![level](assets\screenshots\mirror.png)
+![level](assets/screenshots/mirror.png)
 
 
 #How to shoot ?
 To shoot the alien you have to point leaser into the alien then click the `SHOOT`   button. You your target is okay then the alien will die and you will win
 
-![level](assets\screenshots\aliendied.png)
+![level](assets/screenshots/aliendied.png)
 
 #Now you are eligable for next level
 
