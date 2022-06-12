@@ -8,6 +8,6 @@ pygame.init()
 width=1320
 height=690;
 screen=pygame.display.set_mode((width,height))
-pygame.display.set_caption("Line rotate")
+pygame.display.set_caption("Mirror Saga")
 
 home.home(screen,(width,height))
