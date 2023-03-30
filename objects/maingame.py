@@ -1,6 +1,5 @@
 import imp
 from re import L
-from attr import s
 from matplotlib import collections
 import pygame,sys
 from pygame.locals import *
